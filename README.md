@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-dutch-national-flag-case-study
+<br>
+<p class="ui header product-top-header" title="Dutch National Flag case study Solution">Complete the Dutch National Flag case study. You will need to develop the following classes:a. A main class that extends JFrame to contain the flag and a control button (Sort).b. A class to represent the flag; an extension of JPanel is suggested. This class will contain the array of threads and the sort method.c. A class to represent a thread. Each thread should have a color and a method to draw the thread.
